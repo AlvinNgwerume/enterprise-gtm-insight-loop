@@ -14,3 +14,11 @@ graph TD
     B --> C[AI Classification Engine: Intent & Objection Parsing]
     C --> D[HubSpot CRM Automated Pipeline Sync & Hygiene]
     D --> E[Automated Weekly Insight Loop & Playbook Update]
+🛠️ Core Operational Components
+Signal Capture Middleware: Listens to inbound engagement hooks from multi-channel outreach platforms.
+
+AI Processing Layer: Extracts key intent markers, technical objections, and feature requests using structured LLM prompts.
+
+CRM State & Data Hygiene Sync: Automatically updates deal properties, contact stages, and lifecycle statuses in HubSpot without manual SDR data entry.
+
+Insight Aggregation Loop: Compiles weekly intelligence reports to refine Ideal Customer Profile (ICP) definitions and outreach messaging templates within 48 hours.
